@@ -1,0 +1,13 @@
+{
+  "name": "easy-caniuse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "caniuse-api": "^1.5.2"
+  },
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
