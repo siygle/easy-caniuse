@@ -5,7 +5,9 @@
   "repository": {},
   "license": "MIT",
   "dependencies": {
-    "caniuse-api": "^1.5.2"
+    "caniuse-api": "^1.5.2",
+    "debug": "^2.6.0",
+    "slack-message-builder": "^1.0.1"
   },
   "devDependencies": {
     "standard": "^8.6.0"
